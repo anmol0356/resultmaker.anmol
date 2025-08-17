@@ -1,5 +1,5 @@
-# resultmaker.anmol   (https://github.com/user-attachments/files/21819445/school.result.mark.10.html)
-<!DOCTYPE html>
+# resultmaker.anmol   
+<publised by anmol singh>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
