@@ -1,4 +1,4 @@
-# resultmaker.anmol[school result mark 10.html](https://github.com/user-attachments/files/21819445/school.result.mark.10.html)
+# resultmaker.anmol   (https://github.com/user-attachments/files/21819445/school.result.mark.10.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
