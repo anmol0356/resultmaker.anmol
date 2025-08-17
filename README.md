@@ -1,9 +1,10 @@
-#resultmaker.anmol   
+#resultmaker.anmol 
+
 <publised by anmol singh>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Student Result Manager</title>
+  <title>Student Result Manager by anmol</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body {
